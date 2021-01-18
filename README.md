@@ -1,2 +1,2 @@
 # FictionGene
-Fiction Gene - Novel classification system with machine learning 
+Fiction Gene - Novel classification system with NLP and machine learning 
